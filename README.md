@@ -1,1 +1,1 @@
-# Streamlit
+In this repository there is an example of Streamlit application. For more detailed information how to do it visit this site https://hersanyagci.medium.com/introduction-to-streamlit-for-machine-learning-web-app-cd89c4181c33
